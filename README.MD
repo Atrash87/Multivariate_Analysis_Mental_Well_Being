@@ -38,5 +38,3 @@ This research addresses the limited evidence on physical activity and depression
 - Physical Activity: International Physical Activity Questionnaire Short Form (IPAQ-SF)
 - Depression: 9-item Patient Health Questionnaire (PHQ-9)
 - Covariates: Demographics, BMI, chronic disease status, lifestyle factors
-
-## 📁 Project Structure
