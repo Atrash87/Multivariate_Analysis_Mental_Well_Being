@@ -8,20 +8,28 @@
 
 A comprehensive statistical analysis examining the protective effects of physical activity against depression using logistic regression and data visualization.
 
-## 📊 Overview
+# Relationship between Physical Activity and Depression among Adults in Wuhan, China
 
-This project investigates the relationship between physical activity levels and depression risk in a Chinese population sample. Using multiple logistic regression, we quantify how different intensity levels of physical activity are associated with reduced depression risk while controlling for key covariates including chronic disease status, age, BMI categories, and demographic factors.
+This project explores the relationship between physical activity and depression among community-dwelling adults in Wuhan, China. The analysis was performed using a dataset collected from [source or bootcamp name], focusing on demographic, lifestyle, and health variables.
 
-## 🎯 Key Findings
+## Key Features
+- Data cleaning and preprocessing using Python (pandas, numpy)
+- Exploratory Data Analysis (EDA) and visualization (matplotlib, seaborn)
+- Statistical analysis: correlation, regression, hypothesis testing
+- Insights into the association between physical activity levels (IPAQ/MET) and depression scores (PHQ-9)
+- Well-structured, reproducible Jupyter notebooks for easy understanding
 
-### Protective Effects:
-- **High Physical Activity**: 52% lower depression risk (OR = 0.48, p < 0.001)
-- **Moderate Physical Activity**: 38% lower risk (OR = 0.62, p < 0.001) 
-- **Older Age**: 3% lower risk per year (OR = 0.97, p < 0.001)
+## Folder Structure
+- `data/` - raw and sample datasets
+- `notebooks/` - interactive EDA, analysis, and visualization notebooks
+- `scripts/` - reusable Python scripts for cleaning, analysis, and plotting
+- `requirements.txt` - list of Python packages needed
+- `README.md` - project overview and instructions
 
-### Risk Factors:
-- **Chronic Disease**: 2.37× higher risk (OR = 2.37, p < 0.001)
-- **Underweight BMI**: 42% higher risk vs normal weight (OR = 1.42, p = 0.029)
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Physical-Activity-Depression-Analysis.git
 
 ## 📁 Data Availability
 
