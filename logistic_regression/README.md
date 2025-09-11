@@ -19,4 +19,12 @@ This project analyzes the relationship between **physical activity levels** and 
 4. Run the script:
    ```bash
    python analysis_functions.py
+## Requirements
 
+**pandas
+
+**numpy
+
+**statsmodels
+
+**scipy
