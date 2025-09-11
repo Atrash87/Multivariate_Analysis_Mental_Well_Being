@@ -27,5 +27,5 @@ Description:
 Shows depression odds by key factors: Older age is protective (OR = 0.97). Very low income: OR = 1.95. Underweight (BMI): OR = 2.06. Chronic disease: OR = 3.72, the highest risk factor.
 
 ## Figure 5: Depression Risk Across BMI Categories
-![depression risk by BMI.png](depression_risk_by_BMI_categories.png)
+![depression_risk_by_BMI.png](depression_risk_by_BMI_categories.png)
 
