@@ -21,9 +21,9 @@ This project analyzes the relationship between **physical activity levels** and 
    python analysis_functions.py
 ## Requirements
 
-- **pandas
+- ** pandas
 
-- **numpy
+- ** numpy
 
 - **statsmodels
 
