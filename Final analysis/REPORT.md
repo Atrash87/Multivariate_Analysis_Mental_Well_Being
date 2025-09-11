@@ -18,3 +18,14 @@ Shows the association between physical activity and depression by gender. Males 
 
 Description:
 Shows the effect of moderate activity on depression risk in males by age group. Ages 18–39: 68% lower risk. Ages 40–59: 33% lower risk. Ages 60+: no significant association.
+
+![age_spicific_effects.png](age_spicific_effects_(moderate avtivity).png)
+
+## Figure 4: Likelihood of Depression by Risk Factors
+
+Description:
+Shows depression odds by key factors: Older age is protective (OR = 0.97). Very low income: OR = 1.95. Underweight (BMI): OR = 2.06. Chronic disease: OR = 3.72, the highest risk factor.
+
+## Figure 5: Depression Risk Across BMI Categories
+![depression risk by BMI.png](depression_risk_by_BMI_categories.png)
+
