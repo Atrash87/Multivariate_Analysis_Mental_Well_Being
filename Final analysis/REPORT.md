@@ -11,4 +11,10 @@ Description:
 
 Description:
 Shows the association between physical activity and depression by gender. Males with high activity have 38% lower odds of depression, and moderate activity reduces odds by 44%. Females show no significant association: high activity OR = 1.06, moderate activity OR = 1.13.
+
 ![Activity by gender](gender_interaction_with_physical_activity.png)
+
+## Figure 3: Age-Specific Effects: Moderate Activity and Depression Risk
+
+Description:
+Shows the effect of moderate activity on depression risk in males by age group. Ages 18–39: 68% lower risk. Ages 40–59: 33% lower risk. Ages 60+: no significant association.
