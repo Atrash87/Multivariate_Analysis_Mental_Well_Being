@@ -26,6 +26,40 @@ Shows the effect of moderate activity on depression risk in males by age group. 
 Description:
 Shows depression odds by key factors: Older age is protective (OR = 0.97). Very low income: OR = 1.95. Underweight (BMI): OR = 2.06. Chronic disease: OR = 3.72, the highest risk factor.
 
+![Risk_factors.png](likely_hood_of_depresion_by_different_factors.png)
+
 ## Figure 5: Depression Risk Across BMI Categories
+Description:
+Shows how depression risk varies by BMI. Underweight: OR = 2.06 (highest risk). Overweight/Obese: OR ≈ 1.1. Normal weight: OR = 1 (reference).
+
 ![depression_risk_by_BMI.png](depression_risk_by_BMI_categories.png)
+
+## Figure 6: Depression Risk by Income Level
+Description:
+Shows how depression risk varies by income group. Very low income: OR = 1.95 (highest risk). Low income: OR = 1.44. Middle income: OR = 1.11. High income: OR = 1 (reference). Very high income: OR = 1.75.
+![depression_risk_by_BMI.png](depression_risk_by_BMI_categories.png)
+
+## Figure 7: Depression Risk by Activity Level
+Individuals with high activity show a 38% lower odds of depression (OR = 0.62), while those with moderate activity show a 33% lower odds (OR = 0.67), compared to the low activity group (OR = 1, reference).
+![Depression_Risk_by_Activity_Level.png](activity_level_vs_depression.png)
+
+## Figure: Activity Level and Other Risk Factors
+
+Among high activity individuals:
+
+Chronic disease (OR = 2.10), low income (OR = 1.30), and obesity (OR = 0.85).
+
+Physical activity showed a slight improvement in depression risk, but the effects were not statistically significant.
+
+Among low activity individuals:
+
+Chronic disease (OR = 3.72), low income (OR = 1.95), and obesity (OR = 1.11).
+
+Depression risk was substantially higher compared to their high-activity counterparts.
+
+Key takeaway: Physical activity may help reduce depression risk across vulnerable groups, but it does not fully counteract the negative effects of chronic disease or low income.
+
+![Activity_Level_and_Other_Risk_Factors.png](activity_level_by_risk_group.png)
+
+
 
