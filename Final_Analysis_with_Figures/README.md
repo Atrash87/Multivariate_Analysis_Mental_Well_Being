@@ -36,7 +36,7 @@ Shows how depression risk varies by BMI. **Underweight:** OR = 2.06 (highest ris
 ## Figure 6: Depression Risk by Income Level
 Shows how depression risk varies by income group. **Very low income:** OR = 1.95 (highest risk). **Low income**: OR = 1.44 (no association found with depression). **Middle income**: OR = 1.11 (no association found with depression). **High income**: OR = 1 (reference). **Very high income**: OR = 1.75 (protective).
 
-Key takeaway: Lower income levels are consistently associated with higher depression risk, highlighting the socioeconomic gradient in mental health.
+**Key takeaway**: Lower income levels are consistently associated with higher depression risk, highlighting the socioeconomic gradient in mental health.
 ![depression_risk_by_BMI.png](depression_risk_by_income_level.png)
 
 ## Figure 7: Depression Risk by Activity Level
