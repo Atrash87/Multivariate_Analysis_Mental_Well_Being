@@ -20,10 +20,10 @@ This project explores the relationship between physical activity and depression 
 - Well-structured, reproducible Jupyter notebooks for easy understanding
 
 ## Folder Structure
-- `data/` - raw and sample datasets
-- `notebooks/` - interactive EDA, analysis, and visualization notebooks
-- `scripts/` - reusable Python scripts for cleaning, analysis, and plotting
-- `requirements.txt` - list of Python packages needed
+- `data/` - raw and cleaned datasets
+- `notebooks/` -  cleaning, EDA, analysis, and visualization notebooks
+- `Multivariate logistic regression/` - Multivariate logistic regression functions
+- `Final analysis with figures` - Final report and insights.
 - `README.md` - project overview and instructions
 
 ## How to Use
