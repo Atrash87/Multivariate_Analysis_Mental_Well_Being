@@ -13,7 +13,7 @@ This project analyzes the relationship between **physical activity levels** and 
 1. Clone this repository.  
 2. Install requirements:
    ```bash
-   pip install -r requirements.txt
+   pip install "requirements"
 3. Place your dataset (e.g., your_data.csv) in the project folder.
 
 4. Run the script:
