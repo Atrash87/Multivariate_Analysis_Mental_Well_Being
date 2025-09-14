@@ -21,7 +21,7 @@ Key Findings:
 
    - Women: Protective trend but not significant (OR = 0.77, p = 0.35, moderate; OR = 0.63, p = 0.089, high).
 
-## Other significant factors:
+**Other significant factors:**
 
 - Chronic disease increased odds ~3.7× (OR = 3.72, p < 0.001).
 
