@@ -9,8 +9,6 @@ This project analyzes the relationship between **physical activity levels** and 
 - **Interaction Analysis**: Tests whether the association between activity level and depression differs by gender.  
 - **Descriptive Statistics**: Compares weekly MET-minutes between depressed and non-depressed groups using medians, IQRs, and a Mann-Whitney U test.
 ## Key Findings:
-Key Findings:
-
 - Moderate activity reduced depression odds by 38% (OR = 0.62, p = 0.023).
 
 - High activity reduced depression odds by 50% (OR = 0.50, p = 0.001).
