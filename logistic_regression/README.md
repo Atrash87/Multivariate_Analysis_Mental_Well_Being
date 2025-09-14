@@ -19,19 +19,19 @@ This project analyzes the relationship between **physical activity levels** and 
 
 ## Reference Categories Used in the Model
 
-- Activity level: Low activity (baseline for comparison with moderate and high)
+- **Activity level**: Low activity (baseline for comparison with moderate and high)
 
-- Sex: Female (baseline for comparison with male)
+- **Sex**: Female (baseline for comparison with male)
 
-- Income group: High income (baseline for comparison with very low, low, middle, very high)
+- **Income group**: High income (baseline for comparison with very low, low, middle, very high)
 
-- BMI category: Normal weight (baseline for comparison with underweight, overweight, obese)
+- **BMI category**: Normal weight (baseline for comparison with underweight, overweight, obese)
 
-- Chronic disease: No chronic disease (baseline for comparison with presence of chronic disease)
+- **Chronic disease**: No chronic disease (baseline for comparison with presence of chronic disease)
 
-- Smoking: Non-smoker (baseline for comparison with smoker)
+- **Smoking**: Non-smoker (baseline for comparison with smoker)
 
-- Drinking alcohol: Non-drinker (baseline for comparison with drinker)
+- **Drinking alcohol**: Non-drinker (baseline for comparison with drinker)
 
 
 ## How to Run
