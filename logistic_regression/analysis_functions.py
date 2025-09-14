@@ -73,36 +73,3 @@ def descriptive_stats(df):
 
     u_stat, p_value = stats.mannwhitneyu(depressed, non_depressed)
     print(f"Mann-Whitney U test p-value: {p_value:.4f}")
-
-
-def main():
-    # Load your data
-    df = pd.read_csv("your_data.csv")
-
-    # Preprocess
-    df = preprocess_data(df)
-
-    # Overall analysis
-    print("=== OVERALL ANALYSIS ===")
-    formula = 'depression_binary ~ C(activity_level, Treatment(reference="low activity")) + age + C(sex) + C(income_group_label) + C(BMI_category_label) + C(chronic_disease) + C(smoking) + C(drinking_alcohol)'
-    model_overall = run_logistic_regression(formula, df)
-    print(model_overall.summary())
-    print_odds_ratios(model_overall, label="Overall")
-
-    # Gender stratified
-    print("\n" + "="*50)
-    print("=== GENDER-STRATIFIED ANALYSIS ===")
-    gender_stratified_analysis(df, formula)
-
-    # Interaction
-    print("\n" + "="*50)
-    interaction_formula = 'depression_binary ~ C(activity_level, Treatment(reference="low activity")) * C(sex) + age + C(income_group_label) + C(BMI_category_label) + C(chronic_disease) + C(smoking) + C(drinking_alcohol)'
-    interaction_analysis(df, interaction_formula)
-
-    # Descriptive stats
-    print("\n" + "="*50)
-    descriptive_stats(df)
-
-
-if __name__ == "__main__":
-    main()
