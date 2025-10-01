@@ -3,7 +3,7 @@
 This project analyzes the relationship between **physical activity levels** and **depression** using **multivariate logistic regression models**.
 
 ## What the Code Does
-- **Preprocessing**: Cleans the dataset, converts categorical variables, and sets reference groups.  
+- **Preprocessing**: converts categorical variables, and sets reference groups.  
 - **Overall multivariate Logistic Regression**: Models depression status as a function of activity level, age, sex, income group, BMI category, chronic disease, smoking, and alcohol consumption.  
 - **Gender-Stratified Analysis**: Runs separate multivariable models for males and females.  
 - **Interaction Analysis**: Tests whether the association between activity level and depression differs by gender.  
