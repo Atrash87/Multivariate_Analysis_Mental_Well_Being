@@ -13,39 +13,32 @@ Males with high activity had a **62% lower risk** of depression (OR = 0.38), and
 
 ![Activity by gender](gender_interaction_with_physical_activity.png)
 
-## Figure 3: Age-Specific Effects: Moderate Activity and Depression Risk
-Shows the effect of moderate activity on depression risk in males by age group. Ages 18–39: 68% lower risk. Ages 40–59: 33% lower risk. Ages 60+: no significant association.
-
-**Key takeaway:** The protective effect of physical activity is strongest in younger males and diminishes with age.
-
-![Age-Specific Effects: Moderate Activity and Depression Risk](age_spicific_effects_moderate_avtivity.png)
-
-## Figure 4: Likelihood of Depression by Risk Factors
+## Figure 3: Likelihood of Depression by Risk Factors
 Shows depression odds by key factors: **Older age** is protective (OR = 0.97). **Very low income:** OR = 1.95. **Underweight (BMI):** OR = 2.06. **Chronic disease:** OR = 3.72, **are the most significant risk factors with chronic disease being the highest risk factor**.
 
 **Key takeaway:** Chronic disease, underweight status, and very low income are the strongest risk factors for depression, while older age provides some protection.
 
 ![Risk_factors.png](likely_hood_of_depresion_by_different_factors.png)
 
-## Figure 5: Depression Risk Across BMI Categories
+## Figure 4: Depression Risk Across BMI Categories
 Shows how depression risk varies by BMI. **Underweight:** OR = 2.06 (highest risk). **Overweight/Obese:** OR ≈ 1.1 (no association found with depression). **Normal weight:** OR = 1 (reference).
 
 **Key takeaway:** Underweight individuals face the highest depression risk, while overweight and obese categories show only a slight increase compared to normal weight.
 ![depression_risk_by_BMI.png](depression_risk_by_BMI_categories.png)
 
-## Figure 6: Depression Risk by Income Level
+## Figure 5: Depression Risk by Income Level
 Shows how depression risk varies by income group. **Very low income:** OR = 1.95 (highest risk). **Low income**: OR = 1.44 (no association found with depression). **Middle income**: OR = 1.11 (no association found with depression). **High income**: OR = 1 (reference). **Very high income**: OR = 1.75 (protective).
 
 **Key takeaway**: Lower income levels are consistently associated with higher depression risk, highlighting the socioeconomic gradient in mental health.
 ![depression_risk_by_BMI.png](depression_risk_by_income_level.png)
 
-## Figure 7: Depression Risk by Activity Level
+## Figure 6: Depression Risk by Activity Level
 Individuals with **high activity** show a 38% lower odds of depression (OR = 0.62), while those with **moderate activity** show a 33% lower odds (OR = 0.67), compared to the **low activity** group (OR = 1, reference).
 
 **Key takeaway:** Physical activity reduces, but does not fully offset—the impact of chronic disease and low income on depression risk.
 ![Depression_Risk_by_Activity_Level.png](activity_level_vs_depression.png)
 
-## Figure 8: Activity Level and Other Risk Factors
+## Figure 7: Activity Level and Other Risk Factors
 
 Among **high activity** individuals:
 
